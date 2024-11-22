@@ -2,6 +2,12 @@
 
 I think we should write a clear project description here.
 
+## Updated technical design
+
+First technical design is below this one.
+
+![second-technical-design.png](misc/second-technical-design.png)
+
 ## Initial technical design
 
 ![initial-technical-design.png](misc/initial-techincal-design.png)
