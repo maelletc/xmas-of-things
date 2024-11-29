@@ -22,7 +22,7 @@ For detail task information and status we made a [Trello](https://trello.com/b/3
 - **Christmas Tree**
   - Rotates for a dynamic effect.
 - **Ferris Wheel**
-  - Spins as part of the village decoration.
+  - Spins as part of the village decoration in response to the hour.
 - **Snow Spray**
   - Activates when the temperature falls below a defined value.
 
